@@ -1,4 +1,4 @@
-# Atividades-de-cyberseguran-a-EDUCACIONAL
+cybersegurança EDUCACIONAL
 Atividade de cyber segura para aprendizado e aperfeiçoamento 
 
 # 🔐 Estudo Prático de Segurança da Informação
